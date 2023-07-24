@@ -10,6 +10,7 @@
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Alhkam&theme=dark&count_private=true&show_icons=true)](https://github.com/Alhkam/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-aparicio/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioaparicio1995@gmail.com)
 <!--
 **alhkam/Alhkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
