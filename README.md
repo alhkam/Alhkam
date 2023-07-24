@@ -1,6 +1,8 @@
 # Welcome to Sergio Aparicio Ramírez's GitHub profile! 
 
 ### Here you can find the code I have been learning and the projects I am working on.
+
+![](https://unsplash.com/es/fotos/bUM4weg0RSI)
 <!--
 **alhkam/Alhkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
