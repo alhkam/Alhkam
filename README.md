@@ -7,8 +7,9 @@
 ## My Repositories
 [My Java Lessons Repository](https://github.com/alhkam/TokioEjerciciosJava) Here you can find some Java exercises
 
-# My GitHub Stats
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Alhkam&theme=dark&count_private=true&show_icons=true)](https://github.com/Alhkam/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-aparicio/)
 <!--
 **alhkam/Alhkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
