@@ -3,6 +3,12 @@
 ### Here you can find the code I have been learning and the projects I am working on.
 
 ![](https://images.unsplash.com/photo-1588412079929-790b9f593d8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+
+## My Repositories
+[My Java Lessons Repository](https://github.com/alhkam/TokioEjerciciosJava) Here you can find some Java exercises
+
+# My GitHub Stats
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Alhkam&theme=dark&count_private=true&show_icons=true)](https://github.com/Alhkam/github-readme-stats)
 <!--
 **alhkam/Alhkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
